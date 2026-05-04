@@ -34,6 +34,17 @@ The dataset contains:
  * Analyzed doctor workload
  * Department-wise performance analysis
 
+Project Screenshots
+
+* ![Screenshot 206](./Screenshot%20(206).png)
+* ![Screenshot 207](./Screenshot%20(207).png)
+* ![Screenshot 208](./Screenshot%20(208).png)
+* ![Screenshot 209](./Screenshot%20(209).png)
+* ![Screenshot 210](./Screenshot%20(210).png)
+* ![Screenshot 211](./Screenshot%20(211).png)
+* ![Screenshot 212](./Screenshot%20(212).png)
+* ![Screenshot 213](./Screenshot%20(213).png)
+
 
 # Key Insights
 

@@ -47,14 +47,6 @@ The dataset contains:
  * Distribute patient load evenly
  * Add more staff during peak hours
 
-# Project Output Screenshots
-
- ![Output1](Screenshot%20006.png)
- ![Output2](Screenshot%20007.png)
- ![Output3](Screenshot%20008.png)
- ![Output4](Screenshot%20009.png)
- ![Output5](Screenshot%20010.png)
-
 # Conclusion
 
 This project demonstrates how SQL can be used to solve real-world business problems in healthcare by generating meaningful insights from raw data.
